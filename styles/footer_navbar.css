@@ -1,0 +1,39 @@
+/* This code is for the styling of the navbar footer */
+
+
+footer{
+ display:flex;
+ flex-wrap:wrap;
+ 
+ 
+
+ 
+ /* Below sets the flex direction*/
+border: 5px solid grey;
+min-height: 15vh;
+background-color: white;
+flex-direction:strech;
+border-radius: 1.5 em;
+margin-top: 10px;
+padding: 0;
+ box-shadow: 5px 10px lightgrey;
+ flex: 100%;
+
+ 
+}
+
+
+ul.social_media_options{
+ padding:0;
+ margin:0;
+ list-style:none;
+ font-weight:bold;
+ 
+ }
+
+h3{
+
+color: green;	
+font-family: cursive;
+text-decoration:underline;
+}

@@ -1,0 +1,26 @@
+/* This is the main style sheet */
+@import url ("blogpost.css");
+@import  url ("footer_naverbar.css");
+@import url ("header_navbar.css");
+
+
+.blog_container{
+display:grid;
+grid-template-columns: 300px 300px 300px;
+grid-template-rows: 250px  600px;
+grid-template-areas:
+"hd hd hd hd hd hd hd hd"
+"sd sd sd main main main main main"
+"ft ft ft ft ft ft ft ft";
+	
+
+
+}
+
+
+
+
+
+
+	
+	

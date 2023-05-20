@@ -1,0 +1,40 @@
+/* This code is for the styling of the header */
+
+
+
+.header_navbar{
+ display:flex;
+ flex-wrap: wrap;
+
+/* Below sets the flex direction*/
+border: 5px light grey;
+background-color: white;
+flex-direction:stretch;
+border-radius: 1.5 em;
+margin-bottom:150px;
+ box-shadow: 5px 10px lightgrey;
+flex:100%;
+}
+
+
+ul.blog_menu_options{
+ padding:0;
+ margin:0;
+ list-style:none;
+ font-weight:bold;
+ 
+ }
+
+
+
+
+
+	
+body{
+
+background-color: grey;	
+
+
+}
+
+
